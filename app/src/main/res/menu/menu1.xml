@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemInsert"
+        android:title="기록"></item>
+
+    <item
+        android:id="@+id/itemSearch"
+        android:title="찾기"></item>
+
+    <item
+        android:id="@+id/itemList"
+        android:title="리스트"></item>
+
+    <item
+        android:id="@+id/itemHome"
+        android:title="메인으로"></item>
+
+</menu>
